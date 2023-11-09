@@ -21,6 +21,5 @@ public class App {
         else {
             System.out.println("Vous avez perdu");
         }
-    }
-    
+    } 
 }
